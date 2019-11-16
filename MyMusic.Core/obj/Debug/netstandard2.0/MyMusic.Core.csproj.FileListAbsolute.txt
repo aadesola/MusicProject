@@ -1,0 +1,3 @@
+C:\Users\ADESOLA\Desktop\MaMusik\MyMusic.Core\obj\Debug\netstandard2.0\MyMusic.Core.csprojAssemblyReference.cache
+C:\Users\ADESOLA\Desktop\MaMusik\MyMusic.Core\obj\Debug\netstandard2.0\MyMusic.Core.AssemblyInfoInputs.cache
+C:\Users\ADESOLA\Desktop\MaMusik\MyMusic.Core\obj\Debug\netstandard2.0\MyMusic.Core.AssemblyInfo.cs
